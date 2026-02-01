@@ -98,7 +98,6 @@ All cells in the notebook run sequentially:
 - Visual comparison of predicted vs true coordinates
 - Training/validation loss curves
 
-## Evaluation Criteria
 
 ### Functionality ✓
 - Model successfully predicts pixel coordinates
@@ -123,7 +122,7 @@ After training, the model achieves:
 - Good generalization (train/val loss similar)
 
 ## Author
-ML Assignment - Supervised Regression
+M Hasnen Sheikh
 
 ## License
 Educational project for ML assignment submission.

@@ -1,0 +1,19 @@
+# ML Assignment - Pixel Coordinate Prediction
+# Deep Learning Libraries
+torch==2.10.0
+torchvision==0.25.0
+
+# Data Processing & Analysis
+numpy==2.4.2
+pandas==3.0.0
+scikit-learn==1.8.0
+
+# Visualization
+matplotlib==3.10.8
+
+# Image Processing
+opencv-python==4.13.0.90
+
+# Jupyter Notebook
+jupyter==1.1.1
+jupyterlab==4.5.3
